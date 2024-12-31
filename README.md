@@ -1,6 +1,6 @@
 # Wy Ark Survival Ascended Store [PVE OFICIAL]:
-Webpage
+<h2>Webpage:</h2>
 https://dummystorecatalog.org/index.html
-Discord Page:
+<h2>Discord Page:</h2>
 https://discord.gg/KZeXa26EPX
 Thanks
